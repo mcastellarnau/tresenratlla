@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "alumnessallemanlleu": {
+      "hosting": {
+        "tresenratlla": [
+          "alumnessallemanlleu"
+        ]
+      }
+    }
+  }
+}

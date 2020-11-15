@@ -1,0 +1,20 @@
+button {
+    height: 100px;
+    width: 100px;
+    margin: 5px 5px 5px 5px;
+  }
+  .centrat{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+  
+  
+  }
+  .contenidor{
+    position: absolute;
+    border-style: dotted;
+    height: 90%;
+    width: 90%;
+    margin: 50px 50px 50px 50px;
+  }
+  
